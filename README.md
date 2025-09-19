@@ -16,5 +16,5 @@ It is composed of students represented as vectors, where each parameter is a gra
 
 We assume the grade G of a student S in the discipline D has a linear relation with all his other grades (S).
 
-We can estipulate these relations by looking to all students whose G_d != NULL.
+We are searching an algorithm to estipulate these relations using all other students whose G_d is not NULL.
 
