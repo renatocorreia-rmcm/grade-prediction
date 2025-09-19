@@ -1,4 +1,4 @@
-# grade-prediction
+# The search for a Model Based Grade Prediction Algorithm
 Solving a ![netfliz-prize](https://en.wikipedia.org/wiki/Netflix_Prize) alike problem to predict a student grade based on its previous grades and his colleagues previous grades on miscelaneous disciplines.
 
 ## The problem
