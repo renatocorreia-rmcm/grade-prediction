@@ -18,3 +18,4 @@ We assume the grade G of a student S in the discipline D has a linear relation w
 
 We are searching an algorithm to estipulate these relations using all other students whose G_d is not NULL.
 
+## Similar problems
